@@ -20,34 +20,8 @@ Plaintext
 │   └── script.js     # Lógica e interatividade
 └── README.md         # Documentação principal
 
-🛠️ Como Executar os Projetos
 
-Como estes são projetos estáticos de front-end, você não precisa de compiladores ou servidores complexos:
 
-    Clone o repositório:
-    Bash
-
-    git clone https://github.com/lightzer4/HTML-CSS-JAVASCRIPT.git
-
-    Abra o projeto:
-
-        Navegue até a pasta do projeto desejado.
-
-        Abra o arquivo index.html em qualquer navegador (Chrome, Firefox, Edge, etc.).
-
-        Dica: Se você usa o VS Code, recomendo a extensão Live Server para visualizar as alterações em tempo real.
-
-📝 Notas de Estudo
-
-Este repositório reflete minha evolução técnica, cobrindo tópicos como:
-
-    Semântica e acessibilidade.
-
-    Design Responsivo (Mobile First).
-
-    Manipulação dinâmica de elementos via JS.
-
-    Consumo de APIs e armazenamento local (opcional, dependendo do projeto).
 
 👤 Autor
 
